@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ugur-guler
 - 👀 I’m interested in Android Developer
-- 🌱 I,m trying to be junior of junior developer
+- 🌱 I'm trying to be junior of junior developer
 - 
 - 📫 How to reach me ...
 
